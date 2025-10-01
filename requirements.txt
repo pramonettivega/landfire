@@ -2,8 +2,10 @@ asttokens
 colorama
 comm
 decorator
+earthengine-api
 exceptiongroup
 executing
+geemap
 ipython
 ipython_pygments_lexers
 ipywidgets
